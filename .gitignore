@@ -1,1 +1,4 @@
+#ca vinclure test1 et test2###
 test?
+#exclure test2 malgré la règle précédente#
+!test2
